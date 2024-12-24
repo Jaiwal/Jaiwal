@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, This is Priya</h1>
-<h3 align="center">I am currently working in</h3>
+<h3 align="center">I am currently working</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiwal&label=Profile%20views&color=0e75b6&style=flat" alt="jaiwal" /> </p>
 
-- 🔭 I’m currently working on **Security and Crpto Domain at AWS**
+- 🔭 I’m currently working in **security and crpto domain at AWS**
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **mern stack**
 
-- 👯 I’m looking to collaborate on **Dev or Ops project**
+- 👯 I’m looking to collaborate on **development or automation project**
 
 - 📫 How to reach me **https://www.linkedin.com/in/priya-sharma-196426149/**
 
