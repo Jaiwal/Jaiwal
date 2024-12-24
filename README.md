@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **problem solving, mern stack, devops tools**
 
-- 👯 I’m looking to collaborate on **development or automation projects**
+- 👯 I’m looking to collaborate on **full stack and automation projects**
 
 - 📫 How to reach me **https://www.linkedin.com/in/priya-sharma-196426149/**
 
