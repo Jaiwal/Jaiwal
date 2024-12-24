@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **mern stack**
 
-- 👯 I’m looking to collaborate on **development or automation project**
+- 👯 I’m looking to collaborate on **development or automation projects**
 
 - 📫 How to reach me **https://www.linkedin.com/in/priya-sharma-196426149/**
 
