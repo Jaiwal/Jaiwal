@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, This is Priya</h1>
-<h3 align="center">I am currently working</h3>
+<h3 align="center">I am currently working as a cloud Engineer at AWS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiwal&label=Profile%20views&color=0e75b6&style=flat" alt="jaiwal" /> </p>
 
-- 🔭 I’m currently working in **security and crpto domain at AWS**
+- 🔭 I’m professionally working on **security and crpto domain at AWS**
 
-- 🌱 I’m currently learning **mern stack**
+- 🌱 I’m currently learning **problem solving, mern stack, devops tools**
 
 - 👯 I’m looking to collaborate on **development or automation projects**
 
