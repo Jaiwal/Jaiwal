@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, This is Priya</h1>
-<h3 align="center">I am currently working as a Cloud Engineer at AWS</h3>
-
+<h3 align="center">I identify myself as a problem solver. My pronouns are Do/Fail/Do_Again</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" alt="Problem Solver GIF" width="300" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiwal&label=Profile%20views&color=0e75b6&style=flat" alt="jaiwal" /> </p>
 
-- 🔭 I’m professionally working on **security and crpto domain at AWS**
+- 🔭 I’m professionally working on **security and crpto domain as a Cloud Engineer at AWS**
 
 - 🌱 I’m currently learning **problem solving, mern stack, devops tools**
 
