@@ -5,7 +5,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiwal&label=Profile%20views&color=0e75b6&style=flat" alt="jaiwal" /> </p>
 
-- 🔭 I’m professionally working on **security and crpto domain as a Cloud Engineer at AWS**
+- 🔭 I’m professionally working in **security and crypto domain as a Cloud Engineer at AWS**
 
 - 🌱 I’m currently learning **problem solving, mern stack, devops tools**
 
