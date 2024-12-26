@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Priya</h1>
-<h3 align="center">I identify myself as a problem solver. My pronouns are Do/Fail/Do_Again</h3>
+<h3 align="center">I identify myself as a problem solver. My pronouns are do/fail/doAgain</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" alt="Problem Solver GIF" width="300" />
 </p>
