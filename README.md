@@ -5,9 +5,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiwal&label=Profile%20views&color=0e75b6&style=flat" alt="jaiwal" /> </p>
 
-- 🔭 I’m professionally working as **SDE2 at United Airlines**
+- 🔭 I’m professionally working as *SDE2 at United Airlines*
 
-- 🌱 I’m currently learning ** Microservices architechture, C#, Problem solving**
+- 🌱 I’m currently learning *Microservices architechture, C#, Problem solving*
 
 - 👯 I’m looking to collaborate on **full stack and automation projects**
 
