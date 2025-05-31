@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on full stack and automation projects
 
-- 📫 How to reach me **https://www.linkedin.com/in/priya-sharma-196426149/**
+- 📫 How to reach me **https://www.linkedin.com/in/ipriyasharma/**
 
 - ⚡ Fun fact : **we are dying : )**
 
