@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Microservices architechture, C#, Problem solving**
 
-- 👯 I’m looking to collaborate on full stack and automation projects
-
 - 📫 How to reach me **https://www.linkedin.com/in/ipriyasharma/**
 
 - ⚡ Fun fact : **we are dying : )**
