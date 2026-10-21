@@ -5,13 +5,13 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiwal&label=Profile%20views&color=0e75b6&style=flat" alt="jaiwal" /> </p>
 
-- 🔭 Professionally, working as **SDE2 at United Airlines**
+- 🔭 Professionally, working as a **SDE2 at United Airlines**
 
-- 🌱 Currently, learning **System design**
+- 🌱 Currently, learning **System design, Problem Solving**
 
 - 📫 Reach me at @**https://www.linkedin.com/in/ipriyasharma/**
 
-- ⚡ Fun fact : **we(ego) are dying : )**
+- ⚡ Fun fact : **we are dying : )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
