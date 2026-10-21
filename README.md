@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Priya</h1>
-<h3 align="center">I identify myself as a Observer. My pronouns are watch/letGo/letGod</h3>
+<h3 align="center">I identify myself as an Observer. My pronouns are watch/letGo/letGod</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" alt="Problem Solver GIF" width="300" />
 </p>
